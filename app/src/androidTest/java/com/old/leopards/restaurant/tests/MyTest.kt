@@ -1,6 +1,7 @@
-package com.old.leopards.restaurant
+package com.old.leopards.restaurant.tests
 
 import androidx.test.ext.junit.runners.AndroidJUnit4
+import com.old.leopards.restaurant.model.UserFactory
 import com.old.leopards.restaurant.pageObjects.StartPage
 import org.junit.Test
 import org.junit.runner.RunWith
